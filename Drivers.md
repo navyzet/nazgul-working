@@ -8,3 +8,4 @@ https://github.com/bitdump/BLHeli/tree/master
 
 https://oscarliang.com/best-blheli-32-settings/
 
+Телеметрия с драйверов???
